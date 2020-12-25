@@ -1,2 +1,2 @@
 # my-way.github.io
-![](C:\Users\POOJA\Downloads\mypic.JPG)
+![](C:/Users/POOJA/Downloads/mypic.JPG)
